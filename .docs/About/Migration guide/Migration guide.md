@@ -2,45 +2,38 @@
 
 ## Update version 4.x to 5.x
 
-### New Git Repositories
+### New Git repositories
 
 - All CAKE library files are now at home in the Git repositories of Azure DevOps.
+- Visit [setup](../../Getting\ started/Setup/Setup.md) and find a step-by-step tutorial how to get all future CAKE updates again.
+
 
 ### Global file renaming
 
 - The name of **LIDL CAKE UI Core** has been changed to **LIDL CAKE UI Fundamental** due to the new library setup of some Lidl Digital's CI elements.
-- The new LIDL CAKE UI Fundamental library only consists of symbols, text- and layer-styles that are *fundamental* to each of our product.
+- The new LIDL CAKE UI Fundamental library only consists of symbols, text- and layer-styles that are *fundamental* to each of our products.
 
 ### Symbol transfer
 
-- Some symbols have been moved from our LIDL CAKE UI Fundamental library (earlier CORE) to their explicit product library files (e.g. LIDL CAKE UI Web, App,…)
+- Some symbols have been moved from our LIDL CAKE UI Fundamental library (earlier CORE) to their explicit product library files (e.g. LIDL CAKE UI Web, App,…).
 - Verify that all the following symbols are linked to the correct Sketch library:
   - Buttons
   - Forms
   - Tables
 
-## How to change the repository settings?
+### Replace library
 
-- Please update the linking to the repositories to get all the updates of our libraries.
+- Due to the symbol transfer you need to replace the symbols: buttons, forms and tables in every of your Sketch files with the help of the plugin **Automate**.
 
-### Lidl on GitHub
+| Steps | Description | Preview |
+|---|---|---|
+| 1 |  After downloading the plugin click on "Plugins/Automate/Library" | ![Step 1: Automate](assets/1-automate.png)|
+| 2 |  Choose "Replace library" from the given options | ![Step 2: Replace library](assets/2-replace-library.png)|
+| 3 | Switch the settings under "Libraries of Imported Objects" to the new symbol location (e.g. LIDL-CAKE-UI_Web) and confirm your changes with "OK" | ![Step 3: New library](assets/3-new-library.png)|
 
-- Copy the URL of the Lidl repositories that you needed for your project.
 
-| Project | Link |
-|---|---|
-| Fundamentals | <https://github.com/cake-hub/lidl-sketch.git> |
-| Mail | <https://github.com/cake-hub/lidl-mail-sketch.git> |
+### Symbol replacement
 
-### Update your Repositories
-
-| Steps | Preview |
-|---|---|
-| Open your **SourceTree** and **open the repository** that you want to update (e.g. Fundamental or Mail) | |
-| Go to **repository settings** | ![Repository settings](assets/1-repro-settings@1x.png) |
-| Select **remotes** and **double click on the remote repository path** or **click edit** | ![Remote settings](assets/2-remotes@1x.png) |
-| Update the path by **inserting the URL of the Project Repositories** <br> [Links Repositories](#Lidl-on-GitHub). Finish update by clicking on **OK**. | ![Repository information](assets/3-repro-info@1x.png) |
-
-🎉 You did it! You’re now connected to the Repositories of the CAKE hub.
-
-If you have any question or problems please don’t hesitate and contact us via the chat or at cake@lidl.de.
+- The simple cookie alert no longer exists in our LIDL CAKE UI Web library.
+- Please verify that you don't use the simple cookie alert anymore!
+- Therefore replace the simple version with our current cookie alert.
