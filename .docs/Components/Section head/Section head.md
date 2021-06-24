@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity.
 </AlertInfo>
 
-# Sectionhead
+# Section head
 
 Use section headlines to structure the page content. This allows you to structure sections or separate them more clearly from each other. Only a two-line text is allowed as a maximum variant.
 
@@ -16,7 +16,8 @@ Use section headlines to structure the page content. This allows you to structur
 
 ## Overall styling
 
-- Text-style is always **sectionhead** and centered.
+- Text-style is always [section headline](../../General/Typography/Typography.md#section-headline).
+- The line-height is set to **default**.
 - Font-color is **gray-darker**.
 - The lines/dividers color is **gray-lighter** and has a **2px thickness**.
 - The width of the left and right line depends on the text length and are scaled completely identically over all stylings.

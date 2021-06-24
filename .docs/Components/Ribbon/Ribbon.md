@@ -12,8 +12,8 @@ Basically it is positioned in a context with a product tile, teaser, or image.
 
 ## Overall styling
 
-- The text-style is **small bold**.
-- The line-height is **120%**.
+- The text-style is [small bold](../../General/Typography/Typography.md#small-bold).
+- The line-height is **default**.
 
 ---
 
@@ -25,21 +25,22 @@ Basically it is positioned in a context with a product tile, teaser, or image.
 
 ## Variants
 
-- The ribbon has 3 colored variations: **highlight**, **gray** and **info**.
+- The ribbon has 3 colored variations: **primary**, **highlight**, **gray** and **info**.
 
 | Variants | Attributes | Preview |
 |---|---|---|
+| primary | text-color: basic-white<br>background-color: brand-primary-base | ![info](assets/ribbon-primary@1x.png) |
 | highlight | text-color: basic-white<br>background-color: danger-base | ![highlight](assets/ribbon-highlight@1x.png) |
 | gray | text-color: basic-white<br>background-color: gray-base | ![gray](assets/ribbon-gray@1x.png) |
 | info | text-color: basic-white<br>background-color: info-base | ![info](assets/ribbon-info@1x.png) |
 
 ---
 
-## Spacing & measurements
+## Spacing & Measurements
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Horizontal spacing | padding-left/-right: 8px<br>text-alignment: centered | ![Horizontal spacing](assets/ribbon-measurements@1x.png) |
+| Horizontal spacing | padding-left/-right: 8px<br>text-alignment: left | ![Horizontal spacing](assets/ribbon-measurements@1x.png) |
 
 ---
 
@@ -47,6 +48,8 @@ Basically it is positioned in a context with a product tile, teaser, or image.
 
 - The ribbon is placed below the **image**.
 - Several ribbons have **no distance** to each other at the bottom.
+
+## Example
 
 ![position](assets/ribbon-teaser-example@1x.png)
 

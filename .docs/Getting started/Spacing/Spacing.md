@@ -20,7 +20,7 @@ Working with CAKE brings fixed spaces for layouts.
 
 - All distances are set to an increment of 8 (8, 16, 24, 32, 40, 48, … 128).
 
-![horizontal-spaces](assets/horizontal@1x.png)
+![horizontal-spaces](assets/spaces/horizontal@1x.png)
 
 ---
 
@@ -32,7 +32,7 @@ Working with CAKE brings fixed spaces for layouts.
 - Spaces are placed as an independent element – this prevents the same component from having different distances in a different context.
 - They are only used below a component.
 
-![vertical-spaces](assets/vertical@1x.png)
+![vertical-spaces](assets/spaces/vertical@1x.png)
 
 ---
 
@@ -43,7 +43,7 @@ Working with CAKE brings fixed spaces for layouts.
 
 | Horizontal & Vertical | Vertical |
 |---|---|
-| ![Example: Spaces](assets/example-1@1x.png) | ![Example: Spaces](assets/example-2@1x.png) |
+| ![Example: Spaces](assets/spaces/example-1@1x.png) | ![Example: Spaces](assets/spaces/example-2@1x.png) |
 
 ---
 

@@ -10,12 +10,16 @@ The notification is used above the header. It informs the user about the browser
 
 ## Overall styling
 
-- The text style is **small**.
+- The text style is [small](../../General/Typography/Typography.md#small).
+- The line-height is set to **default**.
+- The text alignment is set to center.
 - The text-color is **brand-primary-base**
 - Background-color is **brand-primary-background**.
 - The height depends on the shown content.
 
-![notification](assets/notification@1x.png)
+### Example
+
+![notification](assets/notification/default@1x.png)
 
 ---
 

@@ -12,9 +12,10 @@ Unique labels give the user a clear message which action is exactly triggered.
 
 ## Overall styling
 
-- The text-style is **button-text**.
+- The text-style is [button-text](../../General/Typography/Typography.md#button-text).
+- The line-height is set to **default**.
 - All buttons have a **fixed height of 48px**.
-- Secondary buttons have a **outline** with a **1px thickness**.
+- Secondary buttons have an **outline** with **1px thickness**.
 
 ---
 
@@ -25,7 +26,7 @@ Unique labels give the user a clear message which action is exactly triggered.
 - Choose a unique button labeling to send a clear message which action is exactly triggered by the button.
 - Ensure consistent labelling across the user journey.
 - Be sure to allow enough space for translation into other languages.
-- A button with an icon may only be used in combination with an input field.
+- Button with an icon may only be used in combination with an input field.
 
 ## Dont's
 
@@ -97,7 +98,7 @@ Unique labels give the user a clear message which action is exactly triggered.
 
 ---
 
-## Measurements
+## Spacing & Measurements
 
 | Type | Attributes | Preview |
 |---|---|---|

@@ -10,7 +10,7 @@ Different types of notifications with contextual feedback about user actions as 
 
 ## General information
 
-**Our "info" alert matches our brand-primary color**. Blue is the best color to demonstrate an "info" alert from UX point of view, in our case and in online studies. Part of the Lidl brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" for an "info" purpose. That's why the "brand-primary-color" for Lidl matches the "info" color. But if, for example, the "brand-primary-color" for Lidl will change, only the components using the "brand-primary-color" will change. This has the benefit that all info elements will stay "blue".
+**Our "info" alert matches our brand-primary color**. Blue is the best color to demonstrate an "info" alert from UX point of view, in our case and in online studies. Part of the LIDL brand colors is "blue" and also the "brand-primary-color" on a digital device. It didn't make sense to create a new color "blue" for an "info" purpose. That's why the "brand-primary-color" for LIDL matches the "info" color. But if, for example, the "brand-primary-color" for LIDL will change, only the components using the "brand-primary-color" will change. This has the benefit that all info elements will stay "blue".
 
 ---
 
@@ -23,7 +23,8 @@ Different types of notifications with contextual feedback about user actions as 
 
 ## Overall styling
 
-- The text style is **large** for the **text**.
+- The text style is [large](../../General/Typography/Typography.md#large).
+- The line-height is set to **default**.
 - Every variant uses the **darker-color** as **text-** and **icon-color**
 - The outline comes in **base-color**.
 - The alert background always is the main-color's **background-color**.
@@ -49,11 +50,11 @@ Different types of notifications with contextual feedback about user actions as 
 
 | Version | Attributes | Preview |
 |---|---|---|
-| info | text- & icon-color: info-darker<br>outline-color: info-base<br>background-color: info-background | ![info](assets/text/info@1x.png) |
-| danger | text- & icon-color: danger-darker<br>outline-color: danger-base<br>background-color: danger-background | ![danger](assets/text/danger@1x.png) |
-| success | text- & icon-color: success-darker<br>outline-color: success-base<br>background-color: success-background | ![success](assets/text/success@1x.png) |
-| warning | text- & icon-color: warning-darker<br>outline-color: warning-base<br>background-color: warning-background | ![warning](assets/text/warning@1x.png) |
-| gray / neutral | text- & icon-color: gray-darker<br>outline-color: gray-base<br>background-color: gray-background | ![gray-neutral](assets/text/gray-neutral@1x.png) |
+| info | text-color: info-darker<br>outline-color: info-base<br>background-color: info-background | ![info](assets/text/info@1x.png) |
+| danger | text-color: danger-darker<br>outline-color: danger-base<br>background-color: danger-background | ![danger](assets/text/danger@1x.png) |
+| success | text-color: success-darker<br>outline-color: success-base<br>background-color: success-background | ![success](assets/text/success@1x.png) |
+| warning | text-color: warning-darker<br>outline-color: warning-base<br>background-color: warning-background | ![warning](assets/text/warning@1x.png) |
+| gray / neutral | text-color: gray-darker<br>outline-color: gray-base<br>background-color: gray-background | ![gray-neutral](assets/text/gray-neutral@1x.png) |
 
 ---
 
@@ -63,13 +64,7 @@ Different types of notifications with contextual feedback about user actions as 
 |---|---|---|
 | Horizontal spacing | padding: 16px | ![Horizontal spacing](assets/measurements/width@1x.png) |
 | Vertical spacing | padding: 16px | ![Vertical spacing](assets/measurements/heights@1x.png) |
-| Icon size | 32x32px | ![Icon size](assets/measurements/icon@1x.png) |
-
----
-
-## Specials
-
-- Alerts can also be used in their brand-primary color besides or with just a different meaning to the „info“-alert (i.e. „brand-primary“ or „wine“)
+| Icon size | 24x24px | ![Icon size](assets/measurements/icon@1x.png) |
 
 ---
 
@@ -81,4 +76,4 @@ Different types of notifications with contextual feedback about user actions as 
 
 ### Our workflow in Sketch
 
-- Use the „Overrides“-function to select the required variant, to edit the content, to change the icon if necessary or if the alert can’t be closed.
+- Use the „Overrides“-function to select the required variant, to edit the content or to change the icon if necessary.

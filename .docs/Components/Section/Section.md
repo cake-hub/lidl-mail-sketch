@@ -15,7 +15,7 @@ Create colored section to show different categories or offers similar to the onl
 
 ---
 
-## Measurements
+## Spacing & Measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

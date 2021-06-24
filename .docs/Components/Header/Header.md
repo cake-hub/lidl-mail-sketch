@@ -6,13 +6,13 @@ Please ensure to comply with the corporate identity.
 
 The header is one of the essential components to create brand awareness.
 
-The appearance symbolizes customers that they received a Lidl newsletter. Its strongest supporting element is the Lidl logo with the brand claim.
+The appearance symbolizes customers that they received a LIDL newsletter. Its strongest supporting element is the LIDL logo with the brand claim.
 
 ---
 
 ## Recommendations
 
-- Keep the globally known Lidl Logo in the header.
+- Keep the globally known LIDL Logo in the header.
 - Only change the brand claim regarding to your country.
 
 ---
@@ -30,23 +30,24 @@ The appearance symbolizes customers that they received a Lidl newsletter. Its st
 ### Usage
 
 - Use the **brand** to show a sub slogan or the release date of the newsletter.
-- Use the **brand-navigation** as a link to supporting sites for the newsletter. For example to the newsletter profile of the customer or to a special page that presents Lidl (e.g. FAQ, responsibility, career …).
+- Use the **brand-navigation** as a link to supporting sites for the newsletter. For example to the newsletter profile of the customer or to a special page that presents LIDL (e.g. FAQ, responsibility, career …).
 - Use the **brand-claim** to promote the newsletter slogan.
-- Use the **logo** to show the user that he is looking at a Lidl newsletter. You can also use the logo as a link to the shop.
+- Use the **logo** to show the user that this is a LIDL newsletter. You can also use the logo as a link to the shop.
 
 ---
 
 ## Overall styling
 
-- The text style of brand and brand-navigation is **small**.
-- The text style of the brand claim is **brand-claim**.
+- The text style of brand and brand-navigation is [small](../../General/Typography/Typography.md#small).
+- The text style of the brand claim is [page headline (Level 4)](../../General/Typography/Typography.md#page-headlines).
+- The line-height is set to **default**.
 - The divider has the **color gray-lighter** and a **height of 1px**. The length of the divider is the **full width** of the component.
 - The header comes with a background-color in **basic-white**.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Brand or <br> Brand-navigation | text-style: small <br> text-color: gray-darker | ![Brand](assets/item/brand@1x.png) <br> ![Brand-nav](assets/item/brand-navigation@1x.png)|
-| Brand Claim | text-style: brand-claim <br> text-color: brand-primary-base <br> position: horizontally centered with logo | ![Brand-claim](assets/item/brand-claim@1x.png) |
+| Brand or <br> Brand-navigation | text-style: [small](../../General/Typography/Typography.md#small) <br> text-color: gray-darker | ![Brand](assets/item/brand@1x.png) <br> ![Brand-nav](assets/item/brand-navigation@1x.png)|
+| Brand Claim | text-style: [page headline (Level 4)](../../General/Typography/Typography.md#page-headlines) <br> text-color: brand-primary-base <br> position: vertically centered with logo | ![Brand-claim](assets/item/brand-claim@1x.png) |
 
 ---
 

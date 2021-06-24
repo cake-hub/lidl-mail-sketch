@@ -6,12 +6,12 @@ How you get access to all our fine CAKE products.
 
 ## Introduction
 
-- CAKE is now available on GitHub.
+- CAKE is available on GitHub.
 - Our recommendation is to use an external software to get access to our design system library files (e.g. Sourcetree)
 - The **CAKE UI Fundamental** repository is the global library file you need to work with any other CAKE UI product (e.g. App, Chatbot, Web, Mail,… )
 
 
-## Lidl on GitHub
+## LIDL on GitHub
 
 | Project | Link |
 |---|---|
@@ -30,7 +30,7 @@ Follow this tutorial if you:
 
 ### Clone repositories
 
-- **Disconnect your VPN** if you are signed in to the Lidl network and …
+- **Disconnect your VPN** if you are signed in to the LIDL network and …
 - **Switch your WiFi connection** to a free wifi (e.g. welcome@schwarz) if you are working in one of our offices.
 
 | Steps | Description | Preview |
@@ -62,7 +62,7 @@ Follow this tutorial if you already:
 
 ### Replace repositories
 
-- **Disconnect your VPN** if you are signed in to the Lidl network and …
+- **Disconnect your VPN** if you are signed in to the LIDL network and …
 - **Switch your WiFi connection** to a free wifi (e.g. welcome@schwarz) if you are working in one of our offices.
 
 | Steps | Description | Preview |

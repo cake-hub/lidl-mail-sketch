@@ -18,9 +18,10 @@ The trustbar is a possibility to show unique selling propositions, services or o
 
 ## Overall styling
 
-- The text-style is **basic**.
-- The background-color always is **gray-lighter**.
+- The text-style is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - Default states icon- and text-color is **gray-darker**.
+- The background-color always is **gray-lighter**.
 - The hover, focus and active state is also shown in gray-darker but the **mouse cursor changes into a link cursor (pointer)**.
 - The icon and text are **aligned horizontally and vertically to the center**.
 
@@ -44,7 +45,7 @@ The trustbar is a possibility to show unique selling propositions, services or o
 - The width depends on the number of elements but always matches our grid.
 - The width of the single trustbar elements adapts to grid.
 - The trustbar extends over the entire screen width.
-- The minimum version consists of 3, the maximum version of 4 trustbar elements.
+- The minimum version consists of 3 and the maximum version of 4 trustbar elements.
 
 | Breakpoints | 3-items | 4-items |
 |---|---|---|

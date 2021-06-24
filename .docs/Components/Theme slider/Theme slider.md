@@ -12,8 +12,8 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 
 ## Overall styling
 
-- The title has the text-style of **basic-bold**.
-- The subheadline comes in the text-style **small**.
+- The title has the text-style of [basic-bold](../../General/Typography/Typography.md#basic-bold).
+- The subheadline comes in the text-style [small](../../General/Typography/Typography.md#small).
 - The line-height is **120%**.
 - Height and width of the component is **divisible by 8**.
 - The image ratio is always **4:3**.

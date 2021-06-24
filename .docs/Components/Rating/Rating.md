@@ -18,7 +18,8 @@ The product rating is visually represented with a star rating.
 
 ## Overall styling
 
-- The text style is **small**.
+- The text style is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The icon **star-filled** or **star-outline** is used.
 - The color is **brand-primary-base**.
 
@@ -26,14 +27,14 @@ The product rating is visually represented with a star rating.
 
 ---
 
-## Spacing & measurements
+## Spacing & Measurements
 
 - The height of the rating is **16px**.
 - The width depends on the number of given ratings in the bracket.
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Icon-size | 8px | ![icon-size](assets/measurements/star-size@1x.png) |
+| Icon-size | 16px | ![icon-size](assets/measurements/star-size@1x.png) |
 | Padding | 4px| ![padding](assets/measurements/padding@1x.png) |
 
 ---

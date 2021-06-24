@@ -19,8 +19,11 @@ The product tile is a basic component which can be combined with other component
 
 ## Overall styling
 
-- The text style of the product title is **basic bold**.
-- The text style of the product description is **small**.
+- The text style of the product title is [basic bold](../../General/Typography/Typography.md#basic-bold).
+- The text style of the product description is [small](../../General/Typography/Typography.md#small).
+- The label text style is [label text](../../General/Typography/Typography.md#label-text).
+- The rating text in brackets is [basic](../../General/Typography/Typography.md#basic).
+- The line-height is set to **default**.
 - The image ratio always is **4:3**.
 - The height of the white area depends on the content and the additional components shown.
 - All widths are fixed and aligned to the layout grid of the breakpoints.
@@ -30,7 +33,7 @@ The product tile is a basic component which can be combined with other component
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Default | text-color: gray-darker <br> background-color: basic-white | ![product-tile default](assets/SM-portrait@1x.png) |
+| Default | Product title text-color: gray-darker <br> Label text-color: danger-base<br> Rating text-color: brand-primary-base<br> background-color: basic-white | ![product-tile default](assets/format/SM-portrait@1x.png) |
 
 ---
 
@@ -38,8 +41,8 @@ The product tile is a basic component which can be combined with other component
 
 | Breakpoints | Attributes | Preview |
 |---|---|---|
-| SM | Portrait or landscape  | ![product-tile SM portrait](assets/SM-portrait@1x.png) <br>  ![product-tile SM landscape](assets/SM-landscape@1x.png) |
-| XS | Only portrait | ![product-tile XS portrait](assets/XS@1x.png) |
+| SM | Portrait or landscape  | ![product-tile SM portrait](assets/format/SM-portrait@1x.png) <br>  ![product-tile SM landscape](assets/format/SM-landscape@1x.png) |
+| XS | Only portrait | ![product-tile XS portrait](assets/format/XS@1x.png) |
 
 ---
 

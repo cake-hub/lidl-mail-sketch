@@ -24,11 +24,11 @@ Use the teaser component to attract attention and build excitement and expectati
 - The image has a **free ratio**.
 - The image should be **divisible by 8**.
 - The teasers are provided in **3 heights** for every breakpoint **148px, 200px, 312px**.
-- Only in tablet view the teasers are povided in **full width and hilf width**.
+- Only in tablet view the teasers are povided in **full width and half width**.
 
 ---
 
-## Spacing & measurements
+## Spacing & Measurements
 
 - In the tablet view (SM) it is possible to place the teasers in four or two columns.
 - In the smartphone view (XS) place only one teaser over two column to guarantee a readable view for the user.
@@ -62,6 +62,23 @@ Use the teaser component to attract attention and build excitement and expectati
 - Following example shows how the different teasers can be arrange in tablet view (SM).
 
 ![teaser example](assets/sm-teaser-example@1x.png)
+
+---
+
+## Teaser Topic
+
+Type | Gray | White
+---------|----------|---------
+Default | ![Teaser topic gray](assets/teaser/topic/gray@1x.png) | ![Teaser topic gray](assets/teaser/topic/white@1x.png)
+
+## Spacing & Measurements
+
+
+Types | Attributes | Preview
+---------|----------|---------
+ Horizontal | padding: 8px | ![Teaser topic horizontal](assets/measurement/teaser/topic/horizontal-white@1x.png) 
+ Vertical | padding: 8px <br> distance: 2px | ![Teaser topic horizontal](assets/measurement/teaser/topic/vertical-white@1x.png)
+Image ratio | default size of 4:3 |
 
 ---
 

@@ -1,16 +1,25 @@
 # Change log
 
+## [1.0.0-beta.5](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0-beta.5) - 2021-01-26
+
+### Added
+
+* `Doc`: "General" | Readme file with new contacts
+
+
 ## [1.0.0-beta.4](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0-beta.4) - 2020-09-24
 
 ### Highlights
 
 * `Added` **Setup**
 
-## [1.0.0-beta.3](https://github.com/cake-hub/lidl-chat-sketch/tree/v1.0.0-beta.3) - 2020-06-26
+
+## [1.0.0-beta.3](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0-beta.3) - 2020-06-26
 
 ### Highlights
 
 * `Added` **Migration guide**
+
 
 ## [1.0.0-beta.2](https://www.secrz.de/bitbucket/projects/UXCAKE/repos/lidl-cake-ui-mail/browse?at=refs%2Ftags%2Fv1.0.0-beta.2) - 2020-01-16
 
