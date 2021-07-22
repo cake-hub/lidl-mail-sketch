@@ -37,7 +37,7 @@ Arial is a system font that can be used without any risk of failure.
 |---|---|---|
 | Small | 12px | ![small](assets/small/small@1.png) |
 
-## Small Bold
+## Small bold
 
 
 - The typeface is always **bold**.
@@ -60,7 +60,7 @@ Arial is a system font that can be used without any risk of failure.
 |---|---|---|
 | Basic | 14px | ![basic](assets/basic/basic@1.png) |
 
-## Basic Bold
+## Basic bold
 
 - The typeface is always **bold**.
 - The line-height always is **140%**.
@@ -82,7 +82,7 @@ Arial is a system font that can be used without any risk of failure.
 |---|---|---|
 | Large | 16px | ![large](assets/large/large@1.png) |
 
-## Large Bold
+## Large bold
 
 - The typeface is always **regular**.
 - The line-height always is **140%**.
@@ -107,7 +107,7 @@ Arial is a system font that can be used without any risk of failure.
 
 ---
 
-## Label Text
+## Label text
 
 - The typeface is always **regular**.
 - The line-height is **120%**.
@@ -200,12 +200,12 @@ Type | Attributes | Preview |
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 Type | Attributes | Preview |
 ---------|----------|----------|
-| Vertical spacing | 32px between **headline (Level 1)** and other headlines or body text<br><br>16px between **headline (Level 2)** and other headlines or body text<br><br>8px between **headline (Level 3)** and other headlines or body text<br><br>32px between body text and body text or headlines<br><br>8px between **headline (Level 4)** and other headlines or body text<br><br>8px between **headline (Level 5)** and other headlines or body text | ![spacing: forms](assets/measurements/body@1x.png) |
-| Vertical spacing | 16px between **section headline (Level 1)** and body text<br><br>32px between body text and body text or headlines | ![spacing: forms](assets/measurements/section@1x.png) |
+| Vertical spacing | 32px between **headline (Level 1)** and other headlines or body text.<br><br>16px between **headline (Level 2)** and other headlines or body text.<br><br>8px between **headline (Level 3)** and other headlines or body text.<br><br>32px between body text and body text or headlines.<br><br>8px between **headline (Level 4)** and other headlines or body text.<br><br>8px between **headline (Level 5)** and other headlines or body text. | ![spacing: forms](assets/measurements/body@1x.png) |
+| Vertical spacing | 16px between **section headline (Level 1)** and body text.<br><br>32px between body text and body text or headlines. | ![spacing: forms](assets/measurements/section@1x.png) |
 ---
 
 ## Our workflow in Sketch

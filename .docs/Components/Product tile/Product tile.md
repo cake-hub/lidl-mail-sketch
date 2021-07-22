@@ -46,7 +46,7 @@ The product tile is a basic component which can be combined with other component
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

@@ -16,13 +16,13 @@ Use section headlines to structure the page content. This allows you to structur
 
 ## Overall styling
 
-- Text-style is always [section headline](../../General/Typography/Typography.md#section-headline).
+- Text-style is always [section head](../../General/Typography/Typography.md#section-head).
 - The line-height is set to **default**.
 - Font-color is **gray-darker**.
 - The lines/dividers color is **gray-lighter** and has a **2px thickness**.
 - The width of the left and right line depends on the text length and are scaled completely identically over all stylings.
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

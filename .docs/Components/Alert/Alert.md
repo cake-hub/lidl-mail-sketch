@@ -25,7 +25,7 @@ Different types of notifications with contextual feedback about user actions as 
 
 - The text style is [large](../../General/Typography/Typography.md#large).
 - The line-height is set to **default**.
-- Every variant uses the **darker-color** as **text-** and **icon-color**
+- Every variant uses the **darker-color** as **text-** and **icon-color**.
 - The outline comes in **base-color**.
 - The alert background always is the main-color's **background-color**.
 - The border has a **thickness of 1px**.
@@ -58,7 +58,7 @@ Different types of notifications with contextual feedback about user actions as 
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

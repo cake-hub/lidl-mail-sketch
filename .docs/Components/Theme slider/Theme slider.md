@@ -2,7 +2,7 @@
 Please ensure to comply with the corporate identity.
 </AlertInfo>
 
-# Theme Slider
+# Theme slider
 
 The theme slider is a navigation bar for special offers and topics that should be displayed prominently to the user with pictures.
 
@@ -29,7 +29,7 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The total height and width of the component is based on the size of the individual elements and their corresponding spacings.
 - The width also depends on how many elements are displayed and is always a multiple of 8.

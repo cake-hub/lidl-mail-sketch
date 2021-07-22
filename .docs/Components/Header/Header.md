@@ -51,7 +51,7 @@ The appearance symbolizes customers that they received a LIDL newsletter. Its st
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

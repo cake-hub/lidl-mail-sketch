@@ -36,7 +36,7 @@ Basically it is positioned in a context with a product tile, teaser, or image.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

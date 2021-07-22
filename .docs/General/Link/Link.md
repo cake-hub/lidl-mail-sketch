@@ -53,7 +53,7 @@ A link is a reference for the user that can lead directly to an external or inte
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|

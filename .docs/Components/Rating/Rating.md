@@ -27,7 +27,7 @@ The product rating is visually represented with a star rating.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - The height of the rating is **16px**.
 - The width depends on the number of given ratings in the bracket.

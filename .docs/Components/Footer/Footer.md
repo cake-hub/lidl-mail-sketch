@@ -31,11 +31,11 @@ The default footer contains the following elements:
 
 | Headline | Main-Navigation | Meta-Navigation |
 |---|---|---|
-|This element is not absolutely necessary for the setup of a footer, unless you want to title or organize your main-navigation categories.|Use it to show a summary of all possible links or menus on a LIDL website (i.e. sitemap, wishlist, shopping cart, account, ...)|For information, such as legal (imprint, terms and conditions, data protection, ...) or contact, which must be placed on a website.|
+|This element is not absolutely necessary for the setup of a footer, unless you want to title or organize your main-navigation categories.|Use it to show a summary of all possible links or menus on a LIDL website (i.e. sitemap, wishlist, shopping cart, account, ...). | For information, such as legal (imprint, terms and conditions, data protection, ...) or contact, which must be placed on a website.|
 
 ---
 
-## Overall Styling
+## Overall styling
 
 - The headline is [large bold](../../General/Typography/Typography.md#large-bold) and the main-nav title/meta-nav title is [basic](../../General/Typography/Typography.md#basic).
 - The line-height is set to **default**.
@@ -52,7 +52,7 @@ The default footer contains the following elements:
 
 ---
 
-## Status Styling
+## Status styling
 
 | Types | Attributes | Preview |
 |---|---|---|
@@ -61,7 +61,7 @@ The default footer contains the following elements:
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Types | Attributes | Preview |
 |---|---|---|

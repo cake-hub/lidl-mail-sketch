@@ -28,7 +28,7 @@ Use the teaser component to attract attention and build excitement and expectati
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 - In the tablet view (SM) it is possible to place the teasers in four or two columns.
 - In the smartphone view (XS) place only one teaser over two column to guarantee a readable view for the user.
@@ -65,13 +65,13 @@ Use the teaser component to attract attention and build excitement and expectati
 
 ---
 
-## Teaser Topic
+## Teaser topic
 
 Type | Gray | White
 ---------|----------|---------
 Default | ![Teaser topic gray](assets/teaser/topic/gray@1x.png) | ![Teaser topic gray](assets/teaser/topic/white@1x.png)
 
-## Spacing & Measurements
+## Spacing & measurements
 
 
 Types | Attributes | Preview

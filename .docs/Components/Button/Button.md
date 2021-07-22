@@ -98,10 +98,11 @@ Unique labels give the user a clear message which action is exactly triggered.
 
 ---
 
-## Spacing & Measurements
+## Spacing & measurements
 
 | Type | Attributes | Preview |
 |---|---|---|
 | Height | 48px |![button height](assets/measurements/height@1x.png) |
-| Horizontal spacing | padding-left: 16px<br>padding-right: 16px | ![button: padding](assets/measurements/padding@1x.png) |
+| Horizontal | Buttons can be variable in width but text is always centered and has 16px minimum spacing left and right. | ![button padding](assets/measurements/padding@1x.png) |
+| Vertical | text is _vertically centered_ | ![button vertical](assets/measurements/vertical-spacing@1x.png) |
 | Distance | 16px between two buttons | ![button distance](assets/measurements/space@1x.png) |

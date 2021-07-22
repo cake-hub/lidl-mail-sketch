@@ -41,7 +41,7 @@ Working with CAKE brings fixed spaces for layouts.
 - The height of a component depends on its content but should also be set to a value divisible by 8 in it’s default state.
 - Margins or paddings are an increment of 8.
 
-| Horizontal & Vertical | Vertical |
+| Horizontal & vertical | Vertical |
 |---|---|
 | ![Example: Spaces](assets/spaces/example-1@1x.png) | ![Example: Spaces](assets/spaces/example-2@1x.png) |
 
