@@ -1,5 +1,12 @@
 # Change log
 
+## [1.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v1.2.0) & [1.2.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.2.0) - 2021-10-01
+
+### Highlights
+
+* `Sketch`, `Doc`: "Availability badges" | New availability badges are available
+
+
 ## [1.0.0-beta.5](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0-beta.5) - 2021-01-26
 
 ### Added
