@@ -1,6 +1,13 @@
 # Change log
 
-## [1.2.0 Fundamental](https://github.com/cake-hub/lidl-sketch/tree/v1.2.0) & [1.2.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.2.0) - 2021-10-01
+## [1.3.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.3.0) - 2022-02-21
+
+### Changed
+
+* `Sketch`: "Symbols that contain icons" | Icons have been updated with the newest versions from brand portal
+
+
+## [1.2.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.2.0) - 2021-10-01
 
 ### Highlights
 
