@@ -1,5 +1,12 @@
 # Change log
 
+## [1.4.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.4.0) - 2022-03-21
+
+### Fixed
+
+* `Sketch`: "Section head" | Fixed responsive behavior
+
+
 ## [1.1.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.1.0) - 2021-07-22
 
 ### Changed
