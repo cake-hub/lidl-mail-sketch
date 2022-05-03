@@ -2,6 +2,10 @@
 It is mandatory to maintain the appearance and behavior of these components.
 </AlertWarning>
 
+<AlertDanger alertHeadline="Important">
+Please note that the dimensions in the documentation differ from the new grid!!
+</AlertDanger>
+
 # Notification
 
 The notification is used above the header. It informs the user about the browser view and contains a link that leads to the browser view.

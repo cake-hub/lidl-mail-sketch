@@ -2,6 +2,10 @@
 Please ensure to comply with the corporate identity.
 </AlertInfo>
 
+<AlertDanger alertHeadline="Important">
+Please note that the dimensions in the documentation differ from the new grid!!
+</AlertDanger>
+
 # Theme slider
 
 The theme slider is a navigation bar for special offers and topics that should be displayed prominently to the user with pictures.

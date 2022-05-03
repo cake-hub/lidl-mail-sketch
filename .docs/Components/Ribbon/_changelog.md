@@ -1,5 +1,12 @@
 # Change log
 
+## [2.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v2.0.0) - 2022-05-03
+
+### Changed
+
+* `Sketch`: "Ribbon" | Adapt component to new grid settings
+
+
 ## [1.3.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.3.0) - 2022-02-21
 
 ### Changed

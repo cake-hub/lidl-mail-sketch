@@ -20,7 +20,8 @@ All our layout resolutions fulfill this requirement:
 
 | SM | XS |
 |---|---|
-| `600x960px` | `320x568px` |
+| `600x960px` | `360x640px` |
+| Nexus 7 (portrait) | Google Pixel 2 |
 
 ---
 
