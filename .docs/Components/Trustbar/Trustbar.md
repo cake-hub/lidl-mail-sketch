@@ -34,7 +34,7 @@ The trustbar is a possibility to show unique selling propositions, services or o
 | Types | Attributes | Preview |
 |---|---|---|
 | Height | SM & XS: 56px | ![Trustbar height](assets/measurements/height@1x.png) |
-| Width | 2 or 4 colums| ![Trustbar width](assets/measurements/width@1x.png) |
+| Width | 4 or 12 colums| ![Trustbar width](assets/measurements/width@1x.png) |
 | Icon-size | 24x24px | ![Trustbar icon-size](assets/measurements/icon-size@1x.png) |
 | Horizontal spacing | margin: 8px | ![Trustbar margin](assets/measurements/horizontal@1x.png) |
 

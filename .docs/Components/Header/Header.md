@@ -2,10 +2,6 @@
 Please ensure to comply with the corporate identity.
 </AlertInfo>
 
-<AlertDanger alertHeadline="Important">
-Please note that the dimensions in the documentation differ from the new grid!!
-</AlertDanger>
-
 # Header
 
 The header is one of the essential components to create brand awareness.
@@ -60,7 +56,7 @@ The appearance symbolizes customers that they received a LIDL newsletter. Its st
 | Types | Attributes | Preview |
 |---|---|---|
 | Height | complete: 105px <br> brand: 25px <br> brand-claim: 80px | ![Height](assets/measurements/XS/height@1x.png) |
-| Width | SM: 600px <br> XS: 320px| ![Width SM](assets/measurements/SM/width@1x.png) <br> ![Width XS](assets/measurements/XS/width@1x.png) |
+| Width | SM: 600px <br> XS: 360px| ![Width SM](assets/measurements/SM/width@1x.png) <br> ![Width XS](assets/measurements/XS/width@1x.png) |
 | Padding | padding-left and -right: 8px <br> padding logo and claim: 8px | ![Padding](assets/measurements/padding@1x.png) |
 | Logo | size: 64x64px | ![Logo-size](assets/measurements/logo-size@1x.png) |
 

@@ -1,10 +1,17 @@
 # Change log
 
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`: "Ribbon" | Adapted component to new grid settings
+
+
 ## [2.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v2.0.0) - 2022-05-03
 
 ### Changed
 
-* `Sketch`: "Ribbon" | Adapt component to new grid settings
+* `Sketch`: "Ribbon" | Adapted component to new grid settings
 
 
 ## [1.3.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.3.0) - 2022-02-21
@@ -17,7 +24,7 @@
 
 ### Changed
 
-* `Doc`: "Ribbon" | Clean up the documentation for the right structure and sentence case
+* `Doc`: "Ribbon" | Cleaned up the documentation for the right structure and sentence case
 
 
 ## [1.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0) - 2021-06-24

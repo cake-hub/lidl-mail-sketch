@@ -1,18 +1,32 @@
 # Change log
 
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`, `Doc`: "Theme slider" | Adapted component to new grid settings
+
+
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Removed
+
+* `Doc`: "Theme slider" | Removed danger hint text for the spacing and measurements
+
+
 ## [2.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v2.0.0) - 2022-05-03
 
 ### Changed
 
-* `Sketch`: "Theme slider" | Adapt component to new grid settings and marked documentation with deviating measurements
+* `Sketch`: "Theme slider" | Adapted component to new grid settings and marked documentation with deviating measurements
 
 
 ## [1.1.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.1.0) - 2021-07-22
 
 ### Changed
 
-* `Doc`: "Theme slider" | Clean up the documentation for the right structure and sentence case
-
+* `Doc`: "Theme slider" | Cleaned up the documentation for the right structure and sentence case
+v
 
 ## [1.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0) - 2021-06-24
 

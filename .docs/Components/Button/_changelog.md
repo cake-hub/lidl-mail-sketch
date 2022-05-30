@@ -4,7 +4,7 @@
 
 ### Changed
 
-* `Doc`: "Button" | Clean up the documentation for the right structure and sentence case
+* `Doc`: "Button" | Cleaned up the documentation for the right structure and sentence case
 * `Doc`: "Button" | Changed horizontal and vertical spacing description
 
 

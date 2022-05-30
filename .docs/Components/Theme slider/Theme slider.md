@@ -2,10 +2,6 @@
 Please ensure to comply with the corporate identity.
 </AlertInfo>
 
-<AlertDanger alertHeadline="Important">
-Please note that the dimensions in the documentation differ from the new grid!!
-</AlertDanger>
-
 # Theme slider
 
 The theme slider is a navigation bar for special offers and topics that should be displayed prominently to the user with pictures.
@@ -41,23 +37,23 @@ All offers are listed horizontally next to each other. Sliding of offers is a ch
 
 | Breakpoints | Attributes | Preview |
 |---|---|---|
-| SM | height: 160px <br> width: 584px | ![complete: SM](assets/measurements/SM@1x.png) |
-| XS | height: 342px <br> width: 304px |  ![complete: XS](assets/measurements/XS@1x.png) |
+| SM | height: 156px <br> width: 584px | ![complete: SM](assets/measurements/SM@1x.png) |
+| XS | height: 374px <br> width: 344px |  ![complete: XS](assets/measurements/XS@1x.png) |
 
 ### Desktop (SM)
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Height | image: 105px <br> text: 55px<br>complete: 160px | ![height: SM](assets/measurements/SM/height@1x.png) |
-| Width | 140px | ![width: SM](assets/measurements/SM/width@1x.png) |
+| Height | image: 101px <br> text: 55px<br>complete: 156px | ![height: SM](assets/measurements/SM/height@1x.png) |
+| Width | 134px | ![width: SM](assets/measurements/SM/width@1x.png) |
 | Spacing | padding: 8px <br> margin: 2px | ![horizontal: SM](assets/measurements/SM/horizontal-vertical@1x.png) |
 
 ### Smartphone (XS)
 
 | Type | Attributes | Preview |
 |---|---|---|
-| Height | image: 112px<br>text: 55px<br>complete: 167px | ![height: XS](assets/measurements/XS/heigth@1x.png) |
-| Width | 148px | ![width: XS](assets/measurements/XS/width@1x.png) |
+| Height | image: 124px<br>text: 55px<br>complete: 179px | ![height: XS](assets/measurements/XS/heigth@1x.png) |
+| Width | 164px | ![width: XS](assets/measurements/XS/width@1x.png) |
 | Spacing | padding: 8px <br> margin: 2px | ![horizontal: XS](assets/measurements/XS/horizontal-vertical@1x.png) |
 
 ---

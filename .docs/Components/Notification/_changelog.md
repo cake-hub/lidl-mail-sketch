@@ -1,5 +1,16 @@
 # Change log
 
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`, `Doc`: "Notification" | Adapted component to new grid settings
+
+### Removed
+
+* `Doc`: "Notification" | Removed danger hint text for the spacing and measurements
+
+
 ## [2.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v2.0.0) - 2022-05-03
 
 ### Changed

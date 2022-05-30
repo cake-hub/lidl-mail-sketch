@@ -1,10 +1,17 @@
 # Change log
 
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`: "Section head" | Adapted component to new grid settings
+
+
 ## [2.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v2.0.0) - 2022-05-03
 
 ### Changed
 
-* `Sketch`: "Section head" | Adapt component to new grid settings
+* `Sketch`: "Section head" | Adapted component to new grid settings
 
 
 ## [1.4.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.4.0) - 2022-03-21
@@ -18,7 +25,7 @@
 
 ### Changed
 
-* `Doc`: "Section head" | Clean up the documentation for the right structure and sentence case
+* `Doc`: "Section head" | Cleaned up the documentation for the right structure and sentence case
 
 
 ## [1.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0) - 2021-06-24

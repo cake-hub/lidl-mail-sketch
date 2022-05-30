@@ -51,9 +51,9 @@ Use the teaser component to attract attention and build excitement and expectati
 
 | Types | Attributes | Preview |
 |---|---|---|
-| Small | 304 x 148 px |![XS small full width](assets/XS/full-small@1x.png)|
-| Medium | 304 x 200 px |![XS medium full width](assets/XS/full-medium@1x.png)|
-| Large | 304 x 312 px |![XS large half width](assets/XS/full-large@1x.png)|
+| Small | 344 x 148 px |![XS small full width](assets/XS/full-small@1x.png)|
+| Medium | 344 x 200 px |![XS medium full width](assets/XS/full-medium@1x.png)|
+| Large | 344 x 258 px |![XS large half width](assets/XS/full-large@1x.png)|
 
 ---
 

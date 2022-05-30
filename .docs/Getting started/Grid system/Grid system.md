@@ -19,11 +19,19 @@ A grid system can be use to align and size objects within a given format.
 
 |  1. Columns | 2. Gutters | 3. Margins |
 |---|---|---|
-| Content is placed in the areas of the screen that contain columns.<br> The number of displayed columns is determined by the breakpoint that is choosen. | Gutters are the spaces between columns.<br> They help separate content and have a **fixed value** of 16px for all breakpoints. | Margins are the space between content and the left and right edges of the screen. They have **fixed values** (16px or 32px) for XS and SM breakpoint. |
+| Content is placed in the areas of the screen that contain columns.<br> The number of displayed columns is determined by the breakpoint that is choosen. | Gutters are the spaces between columns.<br> They help separate content and have a **fixed value** for all breakpoints. | Margins are the space between content and the left and right edges of the screen. They have **fixed values** for XS and SM breakpoint. |
 
 ![Grid Setup](assets/setup_grid_LG@1x.png)
 
 ---
+
+## Design breakpoints
+
+XS | SM |
+---------|----------|
+ `360-599px` | `600-959px` |
+
+ ---
 
 ## Settings in Sketch
 
@@ -32,5 +40,5 @@ A grid system can be use to align and size objects within a given format.
 | Viewport | 600px | 360px |
 | Columns | 12 columns | 4 columns |
 | Gutters | 16px | 16px |
-| Offset (Margins) | 32px / 32px | 16px / 16px |
-| Layout settings | ![SM Layout](assets/sketch_layout_SM@1x.png) | ![XS Layout](assets/sketch_layout_XS@1x.png)|
+| Offset (Margins) | 8px / 8px | 8px / 8px |
+| Layout settings | ![SM Layout](assets/sketch-layout-SM@1x.png) | ![XS Layout](assets/sketch-layout-XS@1x.png)|

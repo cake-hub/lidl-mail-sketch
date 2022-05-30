@@ -1,5 +1,12 @@
 # Change log
 
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Added
+
+* `Sketch`, `Doc`: "Ad-tag" | Added new component
+
+
 ## [1.3.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.3.0) - 2022-02-21
 
 ### Changed

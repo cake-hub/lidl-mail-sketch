@@ -1,17 +1,24 @@
 # Change log
 
+## [3.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v3.0.0) - 2022-05-30
+
+### Changed
+
+* `Sketch`: "Footer" | Adapted component to new grid settings
+
+
 ## [2.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v2.0.0) - 2022-05-03
 
 ### Changed
 
-* `Sketch`: "Footer" | Adapt component to new grid settings
+* `Sketch`: "Footer" | Adapted component to new grid settings
 
 
 ## [1.1.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.1.0) - 2021-07-22
 
 ### Changed
 
-* `Doc`: "Footer" | Clean up the documentation for the right structure and sentence case
+* `Doc`: "Footer" | Cleaned up the documentation for the right structure and sentence case
 
 
 ## [1.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.0.0) - 2021-06-24
