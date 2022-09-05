@@ -1,5 +1,12 @@
 # Change log
 
+## [4.1.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v4.1.0) - 2022-09-05
+
+### Changed
+
+* `Doc`: "Button" | Changed color description for hover-focus-active state
+
+
 ## [1.1.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v1.1.0) - 2021-07-22
 
 ### Changed

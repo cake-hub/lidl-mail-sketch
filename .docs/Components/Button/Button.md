@@ -78,7 +78,7 @@ Unique labels give the user a clear message which action is exactly triggered.
 | Status | Overall styling | Preview |
 |---|---|---|
 | Default | outline-color: brand-primary-base <br> font-color: brand-primary-base | ![Positive secondary default](assets/positive/secondary/default@1x.png) |
-| Hover, focus and active | background: brand-primary-base <br> font-color: basic-white| ![Positive secondary hover, focus & active](assets/positive/secondary/hover-focus-active@1x.png) |
+| Hover, focus and active | background: brand-primary-darker <br> font-color: basic-white| ![Positive secondary hover, focus & active](assets/positive/secondary/hover-focus-active@1x.png) |
 
 ### Negative
 
