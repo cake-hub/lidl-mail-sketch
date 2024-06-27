@@ -1,5 +1,12 @@
 # Change log
 
+## [4.1.1 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v4.1.1) - 2024-06-27
+
+### Deprecated
+
+* `Doc`: "Lidl Plus Price" | This component is deprecated and will not supported anymore.
+
+
 ## [4.0.0 Mail](https://github.com/cake-hub/lidl-mail-sketch/tree/v4.0.0) - 2022-07-25
 
 ### Highlights

@@ -1,5 +1,5 @@
 <AlertWarning alertHeadline="Not modifiable">
- It is mandatory to maintain the appearance and behavior of these components.
+ This component is deprecated and will not supported anymore. The new version is so far only in <a href="/Lidl/Web/Design/Lidl_Plus/Pricebox/Pricebox.md"> Web</a> available.
 </AlertWarning>
 
 # Pricebox
